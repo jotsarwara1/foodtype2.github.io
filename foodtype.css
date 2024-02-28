@@ -1,0 +1,49 @@
+.ma{
+    background: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3B4MTM2OTgxMy1pbWFnZS1rd3Z4eHA5MS5qcGc.jpg) no-repeat;
+   background-size: cover;
+    height: 100vh;}
+.nj{
+    color: azure;
+    text-align: center;
+    padding: 170px;
+}
+div>h1{
+    font-size: 70px;
+    color: rgb(68, 221, 150);
+}
+div p{
+    font-size: 20px;
+    color: aqua;
+}
+input{
+    font-size: 30px;
+    background-color: rgb(200, 216, 144);
+    color: crimson;
+}
+button{
+    font-size: 20px;
+    background-color: rgb(149, 255, 99);
+     padding: 20px;
+     border-radius: 50px;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border: 2px solid rgb(196, 180, 172);
+display: inline;
+}
+li{float: left;}
+li a{
+    padding: 15px 30px;
+    width: 60%;
+    display: block;
+    background-color: aliceblue;
+    text-align: center;
+    overflow: hidden;
+    border: 1px solid rgb(80, 80, 156);
+}
+li:hover{
+    background-color:#555;
+    color:brown ;
+}
